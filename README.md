@@ -1,12 +1,12 @@
-# uniableos
+# Uniable<b>OS</b>
 simple/productive/free linux distro
 
-Uniable OS is a fast, stable, welterweight, and easy-to-install Linux desktop distribution live CD based on Debian Stable for Intel-AMD amd64 compatible computer systems initiated by George Vasilache in 2022.
+UniableOS is a fast, stable, welterweight, and easy-to-install Linux desktop distribution live CD based on Debian Stable for Intel-AMD amd64 compatible computer systems initiated by George Vasilache in 2022.
 
 The vision and rationale behind this initiative is that, given the rapid pace of hardware and software development, as well as the increasing digital footprint and per-user cost of commercial solutions, old public sector infrastructures, schools, students, and healthcare systems are struggling to maintain their hardware and software infrastructures within tight budgets.
 
 
-Uniable OS can run on most computers, ranging from systems with 2048 MB RAM, dual-core processors, and 15 GB of disk space with pre-configured swap, to the latest powerful workstations and laptops. To install Uniable OS to a hard drive, you will need a minimum of 10 GB of hard disk space.
+UniableOS can run on most computers, ranging from systems with 2048 MB RAM, dual-core processors, and 15 GB of disk space with pre-configured swap, to the latest powerful workstations and laptops. To install Uniable OS to a hard drive, you will need a minimum of 10 GB of hard disk space.
 
 Here are some of the key features of Uniable OS:
 
